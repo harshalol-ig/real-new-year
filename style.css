@@ -24,7 +24,7 @@ body {
 button {
     padding: 14px 30px;
     font-size: 19px;
-    background-color: #c2185b;
+    background-color: #ff6f9f;
     color: White;
     border: none;
     border-radius: 30px;
@@ -32,10 +32,11 @@ button {
     font_weight:700;
     opacity: 1;
     filter: none;
+    box-shadow: 0 8px 20px rgba(225, 111 , 159, 0.4);
 }
 
 button:hover {
-    background-color: #9c144a;
+    background-color: #ff5a8c;
     opacity: 1;
 }
 
@@ -50,6 +51,7 @@ button:hover {
     line-height: 2;
 
 }
+
 
 
 
