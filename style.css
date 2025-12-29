@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#fde2ea, #fff5f9);
+    background: linear-gradient(#ffe5ec, #ffd6e8, #fff0f5);
     font-family: "Georgia", serif;
     text-align: center;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 .hint {
-    color: #777;
+    color: #8e3a59;
     font-size: 30px;
     margin-bottom: 18px;
 }
@@ -22,7 +22,7 @@ body {
 button {
     padding: 14px 30px;
     font-size: 19px;
-    background-color: #ff6b95;
+    background-color: #ff6f91, #ff9671;
     color: white;
     border: none;
     border-radius: 25px;
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff3f78;
+    background-color: #ff4f81, #ff7a5c;
 }
 
 .hidden {
@@ -40,8 +40,9 @@ button:hover {
 #secretMessage {
     margin-top: 30px;
     font-size: 22px;
-    color: #444;
+    color: #5a1f33;
     line-height: 2;
 
 }
+
 
