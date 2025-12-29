@@ -30,10 +30,13 @@ button {
     border-radius: 30px;
     cursor: pointer;
     font_weight:700;
+    opacity: 1;
+    filter: none;
 }
 
 button:hover {
     background-color: #9c144a;
+    opacity: 1;
 }
 
 .hidden {
@@ -47,6 +50,7 @@ button:hover {
     line-height: 2;
 
 }
+
 
 
 
