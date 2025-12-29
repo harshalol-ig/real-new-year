@@ -24,8 +24,11 @@ body {
 button {
     padding: 14px 30px;
     font-size: 19px;
-    background-color: #ff6f91,
-        #ff9671;
+    background-color: linear-gradient(
+        135deg,
+        #e91e63,
+        #f06292
+    );
     color: white;
     border: none;
     border-radius: 25px;
@@ -33,8 +36,11 @@ button {
 }
 
 button:hover {
-    background-color: #ff4f81,
-        #ff7a5c;
+    background-color: linear_gradient(
+        135deg,
+        #c2185b,
+        #ec407a
+    );
 }
 
 .hidden {
@@ -48,6 +54,7 @@ button:hover {
     line-height: 2;
 
 }
+
 
 
 
