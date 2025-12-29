@@ -24,7 +24,7 @@ body {
 button {
     padding: 14px 30px;
     font-size: 19px;
-    background-color: #ff4f9a;
+    background-color: #c2185b;
     color: White;
     border: none;
     border-radius: 30px;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-    background-color: #e63c85;
+    background-color: #9c144a;
 }
 
 .hidden {
@@ -47,6 +47,7 @@ button:hover {
     line-height: 2;
 
 }
+
 
 
 
